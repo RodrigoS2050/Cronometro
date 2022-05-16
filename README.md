@@ -1,4 +1,4 @@
-# Cronometro
+# Cronômetro
 
 Projeto Cronômetro feito com HTML, CSS & JavaScript.
 
